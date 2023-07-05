@@ -1,0 +1,4 @@
+allObjectsTextured
+size[small]
+modes[tag bomb tag]
+lightingIntensity[1]
